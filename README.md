@@ -1,4 +1,4 @@
-# Development Container Templates
+# Development Container Github Page
 
 
 A starter repository [devcontainers/template-starter](https://github.com/devcontainers/template-starter) and [GitHub Action](https://github.com/devcontainers/action) are available to help bootstrap self-authored Templates.
